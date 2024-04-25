@@ -11,4 +11,4 @@ It will display a WordCloud of the top 20 words used in the reviews I cleaned.
 It will have a conclusion (in Markdown): include insights that I learned from this analysis.
 
 
-UPDATE: PLEASE WAIT UNTIL THURSDAY IF IN CASE THE NOTEBOOK IS NOT UPLOADED AS OF YET, IT'S RUNNING INTO SOME CODING ISSUES.
+UPDATE: PLEASE WAIT UNTIL LATER IN THE DAY OF THURSDAY IF IN CASE THE NOTEBOOK IS NOT UPLOADED AS OF YET, IT'S RUNNING INTO SOME CODING ISSUES.
