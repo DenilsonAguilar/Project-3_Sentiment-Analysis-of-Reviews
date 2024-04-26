@@ -13,4 +13,4 @@ The notebook itself will view/display and make an analysis on reviews which are 
 - It will have a conclusion (in Markdown): include insights that I learned from this analysis.
 
 
-UPDATE:i had to deal with certain difficulties with completing this assignment this week as i had limited internet and limited electricity, I did the best that I could, I will update this file if possible.
+UPDATE:I had to deal with certain difficulties with completing this assignment this week as I had limited internet and limited electricity, I did the best that I could with these limitations, and I will update this file if possible to do better.
